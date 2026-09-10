@@ -7,7 +7,7 @@ about:
   latestVersion: "3.4"
   latestRelease: "3.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:49:04Z
+  collectedAt: 2026-09-10T22:55:56Z
 timeline:
   created: 2020-11-29
   lastCommit: 2026-08-29
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-29
   lastPrerelease: 
 popularity:
-  star: 2351
+  star: 2353
   watcher: 16
   fork: 73
   release: 28
@@ -84,7 +84,7 @@ total:
   commit: 389
 ---
 path: /home/runner/.x-repo/github.com/anufrievroman/calcure
-collectedAt: 2026-09-10T20:49:06Z
+collectedAt: 2026-09-10T22:55:57Z
 loc:
   Python:
     code: 5464
