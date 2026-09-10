@@ -4,7 +4,7 @@
 
 Modern TUI calendar and task manager with minimal and customizable UI.
 
-![calcure](https://repo.x-cmd.io/calcure.svg)
+![calcure](https://repo.x-cmd.io/calcure.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install calcure
 
 - **最新版本**: `3.4` (2026-08-29)
 - **最近提交**: 2026-08-29
-- **发布时间**: 2026-08-29T02:04:10Z
 
 ## 流行度
 
-- **Star**: 2,350 · **Fork**: 73 · **开放 issue**: 116 · **贡献者**: 25
+- **Star**: 2,351 · **Fork**: 73 · **开放 issue**: 116 · **贡献者**: 25
 
 ## 累计统计
 
@@ -69,4 +68,4 @@ calcure 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:59:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:44:54Z._
