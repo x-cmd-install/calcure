@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,351 · **Forks**: 73 · **Open issues**: 116 · **Contributors**: 25
+- **Stars**: 2,353 · **Forks**: 73 · **Open issues**: 116 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -79,4 +79,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:49:11Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:56:01Z._
