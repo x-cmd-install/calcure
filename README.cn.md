@@ -12,6 +12,26 @@ Modern TUI calendar and task manager with minimal and customizable UI.
 x install calcure
 ```
 
+## 代码规模
+
+合计: **5,498** 行代码（覆盖前 5 种语言、共 **31** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 5,464 | 243 | 877 | 29 |
+| Toml | 34 | 0 | 5 | 1 |
+| Markdown | 0 | 59 | 39 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **3.8 / 10**
+
+评分最低的几项:
+
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (2/10) — Found 5/21 approved changesets -- score normalized to 2
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/anufrievroman/calcure>
@@ -36,28 +56,19 @@ x install calcure
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 0 | 0 | 1 | 0 | 6 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 1 | 0 | 6 |
 | 90d | 2026-06-12 | 1 | 2 | 0 | 1 | 0 | 6 |
+| last180d | 2026-03-14 | 2 | 9 | 0 | 6 | 0 | 46 |
 | 360d | 2025-09-15 | 2 | 15 | 0 | 14 | 0 | 63 |
+| last720d | 2024-09-20 | 5 | 23 | 0 | 34 | 2 | 117 |
 
-## 代码规模
+## 发行版状态
 
-合计: **5,498** 行代码（覆盖前 5 种语言、共 **31** 个文件）。
+在 [repology.org](https://repology.org/project/calcure) 上共有 **10** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 5,464 | 243 | 877 | 29 |
-| Toml | 34 | 0 | 5 | 1 |
-| Markdown | 0 | 59 | 39 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **3.8 / 10**
-
-评分最低的几项:
-
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
-- **Code-Review** (2/10) — Found 5/21 approved changesets -- score normalized to 2
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `3.4` | ✅ latest |
 
 ## 改进这些数据
 
@@ -68,4 +79,4 @@ calcure 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:44:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:49:12Z._
