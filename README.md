@@ -45,26 +45,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,353 · **Forks**: 73 · **Open issues**: 116 · **Contributors**: 25
+- **Stars**: 2,355 · **Forks**: 73 · **Open issues**: 117 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 111 · **Open issues**: 5 · **Commits**: 389
+- **Releases**: 28 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 111 · **Open issues**: 6 · **Commits**: 389
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 0 | 0 | 1 | 0 | 6 |
-| last60d | 2026-07-14 | 1 | 0 | 0 | 1 | 0 | 6 |
-| 90d | 2026-06-14 | 1 | 0 | 0 | 1 | 0 | 6 |
-| last180d | 2026-03-16 | 2 | 9 | 0 | 6 | 0 | 46 |
-| 360d | 2025-09-17 | 2 | 13 | 0 | 13 | 0 | 63 |
-| last720d | 2024-09-22 | 4 | 22 | 0 | 34 | 2 | 114 |
+| 30d | 2026-08-14 | 1 | 0 | 0 | 1 | 1 | 6 |
+| last60d | 2026-07-15 | 1 | 0 | 0 | 1 | 1 | 6 |
+| 90d | 2026-06-15 | 1 | 0 | 0 | 1 | 1 | 6 |
+| last180d | 2026-03-17 | 2 | 9 | 0 | 6 | 1 | 46 |
+| 360d | 2025-09-18 | 2 | 12 | 0 | 13 | 1 | 60 |
+| last720d | 2024-09-23 | 4 | 22 | 0 | 33 | 3 | 114 |
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/calcure). **1** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/calcure). **2** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -79,4 +79,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:44:33Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:58:16Z._
