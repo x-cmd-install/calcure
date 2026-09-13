@@ -17,9 +17,9 @@
   srcname: calcure
   binname: calcure
   visiblename: calcure
-  version: "3.3"
-  origversion: 3.3-1
-  status: outdated
+  version: "3.4"
+  origversion: 3.4-1
+  status: newest
   summary: Modern TUI calendar and task manager
   maintainers:
     - matthewq337@aur
