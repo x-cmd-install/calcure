@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/anufrievroman/calcure/tarball/3.4",
   "zipball_url": "https://api.github.com/repos/anufrievroman/calcure/zipball/3.4",
   "body": "Thanks to contributions from @nacezavrtanik and @thehanslevi, this release brings some minor fixes and improvements:\r\n\r\n### Fixes and changes\r\n- Fixed a crash on launch when the Persian calendar was enabled.\r\n- Fixed Persian calendar weekly view and week/day navigation.\r\n- Fixed moon phases showing incorrectly with the Persian calendar.\r\n- Import ICS events that use DURATION instead of DTEND.\r\n- Recurring ICS events modified for a single day (RECURRENCE-ID) no longer appear twice.\r\n- Recurring events now show their time on every occurrence, not just the first.\r\n- Removed the `jdatetime` dependency (and its LGPL `jalali-core`). Persian date conversion is now built in.\r\n- Packaging migrated from `setup.py` to `pyproject.toml`.\r\n- Fixed a black flash on startup.",
+  "reactions": {
+    "url": "https://api.github.com/repos/anufrievroman/calcure/releases/378845301/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 2
 }
