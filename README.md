@@ -45,22 +45,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,359 · **Forks**: 73 · **Open issues**: 117 · **Contributors**: 25
+- **Stars**: 2,359 · **Forks**: 73 · **Open issues**: 118 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 111 · **Open issues**: 6 · **Commits**: 389
+- **Releases**: 28 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 111 · **Open issues**: 7 · **Commits**: 389
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 0 | 0 | 1 | 1 | 6 |
-| last60d | 2026-07-22 | 1 | 0 | 0 | 1 | 1 | 6 |
-| 90d | 2026-06-22 | 1 | 0 | 0 | 1 | 1 | 6 |
-| last180d | 2026-03-24 | 2 | 9 | 0 | 6 | 1 | 46 |
-| 360d | 2025-09-25 | 2 | 12 | 0 | 11 | 1 | 56 |
-| last720d | 2024-09-30 | 4 | 22 | 0 | 33 | 3 | 113 |
+| 30d | 2026-08-22 | 1 | 0 | 0 | 1 | 2 | 6 |
+| last60d | 2026-07-23 | 1 | 0 | 0 | 1 | 2 | 6 |
+| 90d | 2026-06-23 | 1 | 0 | 0 | 1 | 2 | 6 |
+| last180d | 2026-03-25 | 2 | 9 | 0 | 6 | 2 | 46 |
+| 360d | 2025-09-26 | 2 | 12 | 0 | 11 | 2 | 56 |
+| last720d | 2024-10-01 | 4 | 22 | 0 | 33 | 4 | 113 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:16:44Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:06:22Z._
