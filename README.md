@@ -24,13 +24,13 @@ Total: **5,498** lines of code across **31** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (2/10) — Found 5/21 approved changesets -- score normalized to 2
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 0 | 0 | 1 | 2 | 6 |
-| last60d | 2026-07-23 | 1 | 0 | 0 | 1 | 2 | 6 |
-| 90d | 2026-06-23 | 1 | 0 | 0 | 1 | 2 | 6 |
-| last180d | 2026-03-25 | 2 | 9 | 0 | 6 | 2 | 46 |
-| 360d | 2025-09-26 | 2 | 12 | 0 | 11 | 2 | 56 |
-| last720d | 2024-10-01 | 4 | 22 | 0 | 33 | 4 | 113 |
+| 30d | 2026-08-23 | 1 | 0 | 0 | 1 | 2 | 6 |
+| last60d | 2026-07-24 | 1 | 0 | 0 | 1 | 2 | 6 |
+| 90d | 2026-06-24 | 1 | 0 | 0 | 1 | 2 | 6 |
+| last180d | 2026-03-26 | 2 | 9 | 0 | 6 | 2 | 46 |
+| 360d | 2025-09-27 | 2 | 12 | 0 | 11 | 2 | 56 |
+| last720d | 2024-10-02 | 4 | 22 | 0 | 33 | 4 | 113 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:06:22Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:28Z._
