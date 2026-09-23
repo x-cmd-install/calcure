@@ -4,7 +4,7 @@
 
 Modern TUI calendar and task manager with minimal and customizable UI.
 
-[![x-cmd/install — calcure Code Quality Monitoring Repo Card](https://repo.x-cmd.io/calcure.svg)](https://x-cmd.com/install/calcure)
+[![x-cmd/install — calcure Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/calcure.svg)](https://x-cmd.com/install/calcure)
 
 ## Install
 
@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,359 · **Forks**: 73 · **Open issues**: 118 · **Contributors**: 25
+- **Stars**: 2,360 · **Forks**: 73 · **Open issues**: 118 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 1 | 2 | 6 |
-| last60d | 2026-07-24 | 1 | 0 | 0 | 1 | 2 | 6 |
-| 90d | 2026-06-24 | 1 | 0 | 0 | 1 | 2 | 6 |
-| last180d | 2026-03-26 | 2 | 9 | 0 | 6 | 2 | 46 |
-| 360d | 2025-09-27 | 2 | 12 | 0 | 11 | 2 | 56 |
-| last720d | 2024-10-02 | 4 | 22 | 0 | 33 | 4 | 113 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 1 | 2 | 6 |
+| last60d | 2026-07-25 | 1 | 0 | 0 | 1 | 2 | 6 |
+| 90d | 2026-06-25 | 1 | 0 | 0 | 1 | 2 | 6 |
+| last180d | 2026-03-27 | 2 | 9 | 0 | 6 | 2 | 46 |
+| 360d | 2025-09-28 | 2 | 12 | 0 | 11 | 2 | 56 |
+| last720d | 2024-10-03 | 4 | 22 | 0 | 33 | 4 | 113 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:01:17Z._
