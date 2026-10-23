@@ -14,11 +14,11 @@ x install calcure
 
 ## Code insight
 
-Total: **5,498** lines of code across **31** files in the top 5 languages.
+Total: **5,510** lines of code across **31** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 5,464 | 243 | 877 | 29 |
+| Python | 5,476 | 244 | 878 | 29 |
 | Toml | 34 | 0 | 5 | 1 |
 | Markdown | 0 | 59 | 39 | 1 |
 
@@ -41,26 +41,34 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.4` (2026-08-29)
-- **Last commit**: 2026-08-29
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 2,380 · **Forks**: 76 · **Open issues**: 118 · **Contributors**: 25
+- **Stars**: 2,380 · **Forks**: 76 · **Open issues**: 118 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 43 · **Open PRs**: 1 · **Closed issues**: 111 · **Open issues**: 7 · **Commits**: 389
+- **Releases**: 28 · **Merged PRs**: 44 · **Open PRs**: 0 · **Closed issues**: 111 · **Open issues**: 7 · **Commits**: 391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 1 | 0 | 1 | 1 | 2 | 6 |
-| 90d | 2026-07-24 | 1 | 0 | 1 | 1 | 2 | 6 |
-| last180d | 2026-04-25 | 2 | 8 | 1 | 4 | 2 | 37 |
-| 360d | 2025-10-27 | 2 | 10 | 1 | 10 | 2 | 50 |
-| last720d | 2024-11-01 | 4 | 21 | 1 | 30 | 4 | 113 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-24 | 1 | 1 | 0 | 1 | 2 | 7 |
+| 90d | 2026-07-25 | 1 | 1 | 0 | 1 | 2 | 7 |
+| last180d | 2026-04-26 | 2 | 9 | 0 | 4 | 2 | 38 |
+| 360d | 2025-10-28 | 2 | 11 | 0 | 10 | 2 | 51 |
+| last720d | 2024-11-02 | 4 | 22 | 0 | 30 | 4 | 113 |
+
+## Distribution status
+
+Reported by **10** distros on [repology.org](https://repology.org/project/calcure). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `3.4` | ✅ latest |
 
 ## Improve this data
 
@@ -71,4 +79,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:49:51Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:51:21Z._
