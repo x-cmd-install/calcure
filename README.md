@@ -24,13 +24,13 @@ Total: **5,630** lines of code across **33** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.6 / 10**
+Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/21 approved changesets -- score normalized to 2
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,381 · **Forks**: 77 · **Open issues**: 118 · **Contributors**: 27
+- **Stars**: 2,380 · **Forks**: 77 · **Open issues**: 118 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-28 | 1 | 3 | 0 | 2 | 0 | 3 |
-| 90d | 2026-07-29 | 1 | 3 | 0 | 3 | 0 | 9 |
-| last180d | 2026-04-30 | 2 | 10 | 0 | 6 | 0 | 35 |
-| 360d | 2025-11-01 | 2 | 13 | 0 | 11 | 0 | 52 |
-| last720d | 2024-11-06 | 4 | 24 | 0 | 32 | 2 | 117 |
+| 30d | 2026-09-28 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-29 | 1 | 3 | 0 | 2 | 0 | 3 |
+| 90d | 2026-07-30 | 1 | 3 | 0 | 3 | 0 | 9 |
+| last180d | 2026-05-01 | 2 | 9 | 0 | 6 | 0 | 35 |
+| 360d | 2025-11-02 | 2 | 13 | 0 | 11 | 0 | 52 |
+| last720d | 2024-11-07 | 4 | 24 | 0 | 32 | 2 | 117 |
 
 ## Distribution status
 
@@ -79,4 +79,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:27:09Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:54:11Z._
