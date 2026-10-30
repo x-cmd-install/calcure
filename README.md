@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,380 · **Forks**: 77 · **Open issues**: 118 · **Contributors**: 27
+- **Stars**: 2,388 · **Forks**: 77 · **Open issues**: 118 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -55,19 +55,20 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-30 | 0 | 3 | 0 | 2 | 0 | 3 |
-| 90d | 2026-07-31 | 1 | 3 | 0 | 3 | 0 | 9 |
-| last180d | 2026-05-02 | 2 | 9 | 0 | 5 | 0 | 35 |
-| 360d | 2025-11-03 | 2 | 13 | 0 | 11 | 0 | 52 |
-| last720d | 2024-11-08 | 4 | 24 | 0 | 32 | 2 | 117 |
+| 30d | 2026-09-30 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-31 | 0 | 3 | 0 | 2 | 0 | 3 |
+| 90d | 2026-08-01 | 1 | 3 | 0 | 3 | 0 | 9 |
+| last180d | 2026-05-03 | 2 | 9 | 0 | 5 | 0 | 35 |
+| 360d | 2025-11-04 | 2 | 13 | 0 | 11 | 0 | 52 |
+| last720d | 2024-11-09 | 4 | 24 | 0 | 32 | 2 | 117 |
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/calcure). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/calcure). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
+| Homebrew | `3.4` | ✅ latest |
 | Nix unstable | `3.4` | ✅ latest |
 
 ## Improve this data
@@ -79,4 +80,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:53:23Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:01:35Z._
