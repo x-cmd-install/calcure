@@ -22,16 +22,6 @@ Total: **5,630** lines of code across **33** files in the top 5 languages.
 | Toml | 34 | 0 | 5 | 1 |
 | Markdown | 0 | 59 | 39 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
-- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
-
 ## Source
 
 - **Upstream**: <https://github.com/anufrievroman/calcure>
@@ -45,7 +35,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,398 · **Forks**: 78 · **Open issues**: 118 · **Contributors**: 27
+- **Stars**: 2,399 · **Forks**: 78 · **Open issues**: 118 · **Contributors**: 27
 
 ## Totals (cumulative)
 
@@ -55,12 +45,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-10 | 0 | 3 | 0 | 2 | 0 | 3 |
-| 90d | 2026-08-11 | 1 | 3 | 0 | 3 | 0 | 9 |
-| last180d | 2026-05-13 | 2 | 8 | 0 | 4 | 0 | 30 |
-| 360d | 2025-11-14 | 2 | 13 | 0 | 11 | 0 | 52 |
-| last720d | 2024-11-19 | 4 | 24 | 0 | 32 | 2 | 117 |
+| 30d | 2026-10-11 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-11 | 0 | 3 | 0 | 2 | 0 | 3 |
+| 90d | 2026-08-12 | 1 | 3 | 0 | 3 | 0 | 9 |
+| last180d | 2026-05-14 | 2 | 8 | 0 | 4 | 0 | 30 |
+| 360d | 2025-11-15 | 2 | 13 | 0 | 11 | 0 | 52 |
+| last720d | 2024-11-20 | 4 | 24 | 0 | 32 | 2 | 117 |
 
 ## Distribution status
 
@@ -80,4 +70,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:29:52Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:24:30Z._
