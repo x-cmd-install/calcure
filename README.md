@@ -35,22 +35,22 @@ Total: **5,630** lines of code across **33** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,402 · **Forks**: 78 · **Open issues**: 118 · **Contributors**: 27
+- **Stars**: 2,402 · **Forks**: 79 · **Open issues**: 118 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 46 · **Open PRs**: 0 · **Closed issues**: 113 · **Open issues**: 5 · **Commits**: 395
+- **Releases**: 28 · **Merged PRs**: 46 · **Open PRs**: 1 · **Closed issues**: 113 · **Open issues**: 5 · **Commits**: 395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-13 | 0 | 3 | 0 | 1 | 0 | 3 |
-| 90d | 2026-08-14 | 1 | 3 | 0 | 3 | 0 | 9 |
-| last180d | 2026-05-16 | 2 | 8 | 0 | 4 | 0 | 30 |
-| 360d | 2025-11-17 | 2 | 13 | 0 | 11 | 0 | 52 |
-| last720d | 2024-11-22 | 4 | 24 | 0 | 32 | 2 | 117 |
+| 30d | 2026-10-14 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-14 | 0 | 3 | 1 | 1 | 0 | 3 |
+| 90d | 2026-08-15 | 1 | 3 | 1 | 3 | 0 | 9 |
+| last180d | 2026-05-17 | 2 | 8 | 1 | 4 | 0 | 30 |
+| 360d | 2025-11-18 | 2 | 13 | 1 | 11 | 0 | 52 |
+| last720d | 2024-11-23 | 4 | 24 | 1 | 32 | 2 | 117 |
 
 ## Distribution status
 
@@ -70,4 +70,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:26:58Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:00:00Z._
