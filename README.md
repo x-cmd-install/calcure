@@ -45,12 +45,12 @@ Total: **5,630** lines of code across **33** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-14 | 0 | 3 | 1 | 1 | 0 | 3 |
-| 90d | 2026-08-15 | 1 | 3 | 1 | 3 | 0 | 9 |
-| last180d | 2026-05-17 | 2 | 8 | 1 | 4 | 0 | 30 |
-| 360d | 2025-11-18 | 2 | 13 | 1 | 11 | 0 | 52 |
-| last720d | 2024-11-23 | 4 | 24 | 1 | 32 | 2 | 117 |
+| 30d | 2026-10-15 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-15 | 0 | 3 | 1 | 1 | 0 | 3 |
+| 90d | 2026-08-16 | 1 | 3 | 1 | 3 | 0 | 9 |
+| last180d | 2026-05-18 | 2 | 8 | 1 | 4 | 0 | 30 |
+| 360d | 2025-11-19 | 2 | 13 | 1 | 11 | 0 | 52 |
+| last720d | 2024-11-24 | 4 | 24 | 1 | 32 | 2 | 117 |
 
 ## Distribution status
 
@@ -70,4 +70,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:00:00Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:32:04Z._
