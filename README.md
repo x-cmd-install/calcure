@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-20 | 0 | 3 | 1 | 0 | 0 | 3 |
-| 90d | 2026-08-21 | 1 | 3 | 1 | 3 | 0 | 9 |
-| last180d | 2026-05-23 | 2 | 5 | 1 | 3 | 0 | 22 |
-| 360d | 2025-11-24 | 2 | 13 | 1 | 11 | 0 | 52 |
-| last720d | 2024-11-29 | 4 | 24 | 1 | 32 | 2 | 117 |
+| 30d | 2026-10-21 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-21 | 0 | 3 | 1 | 0 | 0 | 3 |
+| 90d | 2026-08-22 | 1 | 3 | 1 | 3 | 0 | 9 |
+| last180d | 2026-05-24 | 2 | 5 | 1 | 3 | 0 | 22 |
+| 360d | 2025-11-25 | 2 | 13 | 1 | 11 | 0 | 52 |
+| last720d | 2024-11-30 | 4 | 24 | 1 | 32 | 2 | 117 |
 
 ## Distribution status
 
@@ -80,4 +80,4 @@ Install metadata for calcure lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:38:39Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:00:01Z._
