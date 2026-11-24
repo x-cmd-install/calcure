@@ -24,13 +24,13 @@ x install calcure
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4 / 10**
+总评分: **3.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
-- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Pinned-Dependencies** (-1/10) — no dependencies found
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## 源代码
 
@@ -45,22 +45,22 @@ x install calcure
 
 ## 流行度
 
-- **Star**: 2,405 · **Fork**: 79 · **开放 issue**: 118 · **贡献者**: 27
+- **Star**: 2,405 · **Fork**: 79 · **开放 issue**: 118 · **贡献者**: 26
 
 ## 累计统计
 
-- **发布数**: 28 · **已合并 PR**: 46 · **开放 PR**: 1 · **已关闭 issue**: 113 · **开放 issue**: 5 · **提交数**: 395
+- **发布数**: 28 · **已合并 PR**: 44 · **开放 PR**: 1 · **已关闭 issue**: 113 · **开放 issue**: 5 · **提交数**: 395
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 3 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 1 | 3 | 1 | 3 | 0 | 0 |
-| last180d | 2026-05-27 | 2 | 5 | 1 | 3 | 0 | 0 |
-| 360d | 2025-11-28 | 2 | 13 | 1 | 10 | 0 | 0 |
-| last720d | 2024-12-03 | 4 | 24 | 1 | 32 | 2 | 117 |
+| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-26 | 1 | 1 | 1 | 3 | 0 | 1 |
+| last180d | 2026-05-28 | 2 | 3 | 1 | 3 | 0 | 20 |
+| 360d | 2025-11-29 | 2 | 11 | 1 | 10 | 0 | 50 |
+| last720d | 2024-12-04 | 4 | 22 | 1 | 32 | 2 | 117 |
 
 ## 发行版状态
 
@@ -80,4 +80,4 @@ calcure 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T08:30:51Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:35:16Z._
